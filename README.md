@@ -3,6 +3,8 @@
 -
 ####arduino_launchpad
 
+midterm_assignment.
+
 demovideo [here](https://www.youtube.com/watch?v=JXGWbLnj5vo)
 
 -
