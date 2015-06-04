@@ -1,5 +1,12 @@
 ### NEXT_2015_1학기_HCI
 
+-
+####arduino_launchpad
+
+demovideo [here](https://www.youtube.com/watch?v=JXGWbLnj5vo)
+
+-
+
 ####kinect_motionicon
 
 final_assignment.
