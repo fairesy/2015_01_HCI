@@ -9,3 +9,5 @@ final_assignment.
 이모티콘, 스티커 처럼 모션으로 감정을 표현할 수 있도록 한 프로젝트입니다. 
 
 original, hello, yay, headache!! 의 4가지 상태가 있습니다. 
+
+demovideo [here](https://youtu.be/5XLLCJS4FRs)
