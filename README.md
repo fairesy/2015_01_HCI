@@ -5,6 +5,8 @@
 
 midterm_assignment.
 
+VJing 등에 컨트롤러로 사용되는 런치패드(launchpad)를 아두이노와 스위치를 사용하여 제작하였습니다.
+
 demovideo [here](https://www.youtube.com/watch?v=JXGWbLnj5vo)
 
 -
